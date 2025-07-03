@@ -1,2 +1,2 @@
 # vigilant-spoon
-demo for git &amp; gitHub class
+demo for git &amp; gitHub class.
